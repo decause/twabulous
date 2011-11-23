@@ -1,6 +1,7 @@
 """ Twabulous
 
 It's like twitter + fabulous.
+Watch tweets in fabulous color from your console!
 """
 
 import simplejson
@@ -10,7 +11,7 @@ import fabulous.text
 import fabulous.color
 import urllib
 import os
-import re
+#import re
 import optparse
 
 
